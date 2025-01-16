@@ -1,0 +1,16 @@
+# JetBrains Rider
+.idea/
+*.iml
+
+# Diretórios de Cache do Rider
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/dictionaries
+.idea/libraries/
+
+# Arquivos de Configuração Locais
+.idea/.idea_modules.xml
+.idea/vcs.xml
+.idea/vscode/
